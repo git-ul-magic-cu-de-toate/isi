@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ZrNFieoT3ZUZjfcETEZEDTQHaIO0zJhXTvzl2wr7ZU=",
+  "Source": "PostsCommandService",
+  "BasePath": "_content/PostsCommandService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

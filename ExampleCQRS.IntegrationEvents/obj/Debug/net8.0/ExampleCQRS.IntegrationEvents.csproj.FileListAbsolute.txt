@@ -1,0 +1,11 @@
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\bin\Debug\net8.0\ExampleCQRS.IntegrationEvents.deps.json
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\bin\Debug\net8.0\ExampleCQRS.IntegrationEvents.dll
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\bin\Debug\net8.0\ExampleCQRS.IntegrationEvents.pdb
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\ExampleCQRS.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\ExampleCQRS.IntegrationEvents.AssemblyInfoInputs.cache
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\ExampleCQRS.IntegrationEvents.AssemblyInfo.cs
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\ExampleCQRS.IntegrationEvents.csproj.CoreCompileInputs.cache
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\ExampleCQRS.IntegrationEvents.dll
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\refint\ExampleCQRS.IntegrationEvents.dll
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\ExampleCQRS.IntegrationEvents.pdb
+C:\work\samples\ExampleCQRS\ExampleCQRS.IntegrationEvents\obj\Debug\net8.0\ref\ExampleCQRS.IntegrationEvents.dll
