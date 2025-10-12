@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sbtx95UnoLt1d7e/BjyG2Yx0Tw9zXA60rIXZ5j9mf70=",
+  "Source": "PostsQueryService",
+  "BasePath": "_content/PostsQueryService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
